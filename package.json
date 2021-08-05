@@ -1,0 +1,8 @@
+{
+    "name": "framework_dev",
+    "version": "0.1.0",
+    "description": "New wed dev framework",
+    "author": "Ewan James Fox <ewan@ewanfox.com>",
+    "main": "src/index.js",
+    "dependencies": {}
+}
